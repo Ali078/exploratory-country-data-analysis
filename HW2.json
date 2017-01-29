@@ -1,0 +1,23 @@
+{
+	"Q3": {
+		"SquaredError": 24.52,
+		"Attr": "Life Expectancy"
+	},
+	"Q2": {
+		"Positive": {
+			"coeff": 0.980173,
+			"pValue": 0.001,
+			"Attr0": "Labor Force",
+			"Attr1": "Population"
+		},
+		"Negative": {
+			"coeff": -0.441829,
+			"pValue": 0.001,
+			"Attr0": "Commercial Prime Lending Rate",
+			"Attr1": "Life Expectancy"
+		}
+	},
+	"Email": "alhussain@cs.stonybrook.edu",
+	"SBUID": "110951463",
+	"Name": "Ali Abbas Hussain"
+}
